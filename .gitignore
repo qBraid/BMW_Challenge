@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# The dataset
+/crack_dataseet
+
+# Any images
+*.jpg
