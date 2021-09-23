@@ -134,3 +134,13 @@ dmypy.json
 # Any images
 *.jpg
 *.zip
+
+
+# VS Code
+.vscode/
+
+# pytest
+.pytest_cache/
+
+# ipynb checkpoints 
+.ipynb_checkpoints/
