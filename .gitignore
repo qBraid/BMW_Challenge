@@ -144,3 +144,6 @@ dmypy.json
 
 # ipynb checkpoints 
 .ipynb_checkpoints/
+
+# DS_Store
+.DS_Store
