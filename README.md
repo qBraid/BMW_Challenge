@@ -5,7 +5,7 @@
 
 
 After you have activate your environment, before you install anything, make sure
-to update your pip with: pip install --upgrade pip
+to update your pip with: `pip install --upgrade pip`
 
 ## Installation/plugins with jupyter
 
